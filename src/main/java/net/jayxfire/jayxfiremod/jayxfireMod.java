@@ -42,7 +42,6 @@ public class jayxfireMod
 
     private void commonSetup(final FMLCommonSetupEvent event)
     {
-
     }
 
     // Add the example block item to the building blocks tab
